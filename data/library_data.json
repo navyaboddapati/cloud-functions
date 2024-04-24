@@ -1,0 +1,26 @@
+{ 
+    "books": [
+        {
+            "title": "The Great Gatsby",
+            "author": "F.scott Fitzgrald",
+            "location" : " Fiction, Aisle 3, shelf 2",
+            "availability": "available"
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "location" : " Fiction, Aisle ON, shelf 3",
+            "availability": "unavailable"
+        },
+        {
+        "title": "1984",
+        "author": "George Orwell",
+        "location" : " Fiction, Aisle PQ, shelf 6",
+        "availability": "available"
+        }
+    ],
+    "library_hours" : "Monday-Sunday (Central Library) 24/7 **schedule changes on breaks**",
+    "library_policies": "1.Quiet study areas must be maintained.\n 2. Food and drinks are prohibited in certain areas.\n 3.Books can be checkd out for a maximum of 3 weeks.",
+    "library_events": "Upcoming Events: \n\n1.Book club Meeting (May 1st, 6 PM) \n 2. Dogs Day(May 2nd, 8 PM)\n 3. Sunset study with music(May 2nd,6 PM)"
+
+}
